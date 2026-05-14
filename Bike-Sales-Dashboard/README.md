@@ -5,7 +5,7 @@ This project analyzes customer purchase behavior for a bike company. By processi
 
 ## Dashboard Preview
 <img width="1919" height="1079" alt="Screenshot 2026-05-14 191930" src="https://github.com/user-attachments/assets/3876b72a-04e3-46af-9520-abc6e9e9ce74" />
-*(Note: If you haven't moved the image yet, make sure the file name in the brackets matches your uploaded image exactly.)*
+
 
 ## Data Workflow
 
