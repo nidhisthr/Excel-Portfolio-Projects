@@ -3,7 +3,7 @@
 ## Project Overview
 This project involved analyzing the annual sales data of **Vrinda Store** to uncover key trends, top-performing categories, and customer demographics. The goal was to provide data-driven recommendations to help the store improve its sales strategy for the upcoming year.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1919" height="1079" alt="Screenshot 2026-05-14 215414" src="https://github.com/user-attachments/assets/90c59a36-5c81-4d0f-b61d-73fdf3f45878" />
 
 
@@ -31,5 +31,5 @@ I focused on several critical business metrics:
 * **Seasonal Peak:** There is a noticeable spike in sales during specific months, likely due to festive seasons.
 
 ## 📁 Files in this Folder
-* `Vrinda_Store_Report.xlsx`: The complete Excel workbook with data cleaning and dashboard.
+* `Vrinda Store Data Analysis.xlsx`: The complete Excel workbook with data cleaning and dashboard.
 * `dashboard_review`: High-resolution preview of the annual report.
