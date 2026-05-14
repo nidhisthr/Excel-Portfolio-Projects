@@ -25,11 +25,11 @@ I focused on several critical business metrics:
 * **Dynamic Slicers:** Added filters for **Category, Channel (Amazon, Flipkart, Myntra), and Month** for deep-dive analysis.
 * **Visual Hierarchy:** Used a clean, Dark Mode layout to highlight the most important sales figures first.
 
-## 💡 Key Business Insights
+## Key Business Insights
 * **Top Channel:** A significant portion of sales comes from **Amazon, Flipkart, and Myntra**, suggesting a strong e-commerce presence.
 * **Gender Split:** Women are the primary customers for Vrinda Store, contributing to ~64% of total sales.
 * **Seasonal Peak:** There is a noticeable spike in sales during specific months, likely due to festive seasons.
 
-## 📁 Files in this Folder
+## Files in this Folder
 * `Vrinda Store Data Analysis.xlsx`: The complete Excel workbook with data cleaning and dashboard.
 * `dashboard_review`: High-resolution preview of the annual report.
