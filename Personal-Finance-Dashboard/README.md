@@ -31,3 +31,4 @@ The dashboard highlights critical financial metrics:
 ## Files in this Folder
 * `Personal_Finance_Dashboard.xlsx`: The source Excel file with all budgeting logic and formulas.
 * `dashboard_review_personal_finance_dashboard.jpg`: High-resolution preview of the financial dashboard.
+* `Personal Finance Dashboard.mp4`: Screen recording of the dashboard in action.
