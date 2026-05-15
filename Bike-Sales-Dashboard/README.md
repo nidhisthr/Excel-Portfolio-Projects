@@ -35,3 +35,4 @@ This project analyzes customer purchase behavior for a bike company. By processi
 ## Files in this Folder
 * `Bike_Sales_Dashboard.xlsx`: The full interactive Excel workbook.
 * `dashboard_preview.png`: High-resolution screenshot of the final dashboard.
+* `Bike_Sales_Demo.mp4`: Screen recording of the dashboard in action.
