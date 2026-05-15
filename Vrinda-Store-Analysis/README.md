@@ -33,3 +33,4 @@ I focused on several critical business metrics:
 ## Files in this Folder
 * `Vrinda Store Data Analysis.xlsx`: The complete Excel workbook with data cleaning and dashboard.
 * `dashboard_review`: High-resolution preview of the annual report.
+* `Vrinda Store Dashboard.mp4`: Screen recording of the dashboard in action.
